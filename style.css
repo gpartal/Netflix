@@ -1,0 +1,39 @@
+.header-bg-img{
+    background-image: url("./arkaplan.jpg");
+    height: 700px;
+}
+.header-bg-color{
+    background-color: rgb(0,0,0,0.6);
+    height: 100%;
+}
+.margin-header{
+    margin: 150px 0px;
+}
+.main-bg-color{
+    background-color: black;
+}
+.hr-div{
+    height: 10px;
+    background-color: #2d2d2d;
+}
+.fs-title{
+    font-size: 48px;
+}
+.section-bg-color{
+    background-color: #000;
+}
+.sss-bg-color{
+    background-color: #2d2d2d;
+}
+.footer-bg-color{
+    background-color: black;
+}
+footer .container .row .col-6 ul li{
+    color: white;
+}
+.footer-select-box{
+    width: 10%;
+}
+img{
+    width: 100%;
+}
